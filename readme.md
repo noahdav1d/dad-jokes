@@ -1074,4 +1074,8 @@ want about to a race conditions hear joke?
 **A:** Dependency Day
 
 ---
+**Q:** Why do submarines all run Linux?
 
+**A:** you can’t open Windows under water.
+
+---
